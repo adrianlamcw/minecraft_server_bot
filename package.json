@@ -1,0 +1,15 @@
+{
+    "name": "greeter-bot",
+    "version": "1.0.0",
+    "description": "Minecraft Server Bot",
+    "main": "bot.js",
+    "author": "ILOVEPIE421",
+    "dependencies": {
+        "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+        "jQuery": "^1.7.4",
+        "jquery": "^3.4.1",
+        "jsdom": "^15.1.1",
+        "minecraft-protocol": "^1.9.4",
+        "winston": "^3.2.1"
+    }
+}

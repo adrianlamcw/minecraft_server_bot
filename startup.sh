@@ -1,0 +1,1 @@
+screen -S mcs ./start.sh
